@@ -23,12 +23,14 @@
 #include <chrono>
 #include <cstddef>
 #include <cstdint>
-#include <cstdio>
+#include <algorithm>
 #include <filesystem>
-#include <format>
 #include <print>
+#include <ranges>
+#include <span>
 #include <string>
 #include <string_view>
+#include <vector>
 #include <unordered_map>
 #include <unordered_set>
 #include <vector>
